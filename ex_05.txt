@@ -1,0 +1,3 @@
+do-while: will run the 1st iteration before checking the condition
+
+while: will first check the condition before making the 1st iteration
